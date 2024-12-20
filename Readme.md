@@ -5,7 +5,7 @@
   - [Configuration](#configuration)
         - [Example](#example)
   - [Localization](#localization)
-        - [Supported Languages:](#supported-languages)
+      - [Supported Languages:](#supported-languages)
   - [Resourses](#resourses)
 
 ## Usage
@@ -102,7 +102,7 @@ Inside the `Localization` folder you can modify existing text or, if mods allow 
 The **int** extension stands for international (english). If you're working on extending the text for a different language you need to modify the file with the corresponding extension.
 For reference here are the supported languages for XCOM 2 based on the [Steam page][XCOM2SteamPage]:
 
-##### Supported Languages:
+#### Supported Languages:
 
 | Language              | Extension         |
 |---------------------  |----------------   |
@@ -120,10 +120,10 @@ For reference here are the supported languages for XCOM 2 based on the [Steam pa
 
 ## Resourses
 
-[Unreal Engine: Configuration Files][UDKConfigDoc] - *unreal engine website*
-[Reddit: Configuration Files](https://www.reddit.com/r/xcom2mods/wiki/wotc_modding/config_files/) - *Reddit*
-[Robojumper Blog: Configuration Files](https://robojumper.github.io/too-real/load-order/) *Robojumper's blog*
-[Steam Guide: How to Preserve Mods' Configurations in a Local Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2820842366) - *Steam*
+- [Unreal Engine: Configuration Files][UDKConfigDoc] - *unreal engine website*
+- [Reddit: Configuration Files](https://www.reddit.com/r/xcom2mods/wiki/wotc_modding/config_files/) - *Reddit*
+- [Robojumper Blog: Configuration Files](https://robojumper.github.io/too-real/load-order/) - *Robojumper's blog*
+- [Steam Guide: How to Preserve Mods' Configurations in a Local Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2820842366) - *Steam*
 
 [AML]: https://github.com/X2CommunityCore/xcom2-launcher
 [X2LocalModTemplateRelease]: https://github.com/boundir/X2LocalModTemplate/release/latest

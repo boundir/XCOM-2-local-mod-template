@@ -1,0 +1,5 @@
+[mod]
+publishedFileId=0
+Title=X2LocalModTemplate
+Description=Template for a local mod.
+RequiresXPACK=true
